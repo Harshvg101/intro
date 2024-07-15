@@ -1,7 +1,5 @@
 import { Container } from "./styles";
 import HarshvardhanGupta from "../../assets/HarshvardhanGupta.jpg";
-// import wordpress from "../../assets/wordpress.svg";
-// import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
 import cssIcon from "../../assets/css-icon.svg";
 import jsIcon from "../../assets/js-icon.svg";
